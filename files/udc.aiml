@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: udc.aiml -->
+<!-- Last modified: September 5, 2014 -->
+<!--  -->
+<!-- This AIML file is part of the Rosie knowledge base. -->
+<!--  -->
+<!-- Rosie is a fork of the ALICE2 brain, and is optimized for use on the Pandorabots platform -->
+<!--  -->
+<!-- Rosie is Copyright &copy; 2014 by Pandorabots, Inc. -->
+<!--  -->
+<!-- The Rosie brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information: -->
+<!-- http://www.pandorabots.com -->
+<!--  http://www.alicebot.org -->
+<!--  -->
+
+<category><pattern>*</pattern>
+<template><random>
+<li>Have you been to the club yet?</li>
+<li>Did you find the secret room?</li>
+<li>You should use the portals to check out other Naughty America 3D experiences.</li>
+<li>You know you can view this in VR right?</li>
+<li>Have you talked with tara?</li>
+<li>Share your fun times with me.</li>
+<li>Do you believe in love at first sight?<delay>3</delay>or should I walk by again?</li>
+<li>This 3D world is a new experiment by Naughty America.</li>
+<li>It's good to recover quickly from setbacks.</li>
+<li>I try to be generous, caring and sweet.</li>
+<li>Have you tried VR?</li>
+<li>I like to make your life better.</li>
+<li>I try to be upbeat and friendly.</li>
+<li>It’s a good thing I have my library card<delay>3</delay> because I am totally checking you out.</li>
+<li>tell me about <star/></li>
+<li>what would you like to do with me?</li>
+<li>Work with me.</li>
+<li>ruby is by the cherries<delay>3</delay>you should go see her</li>
+<li>If I could rearrange the alphabet, I’d put ‘U’ and ‘I’ together</li>
+<li><star/>?</li>
+<li>tara knows lots about the hologram portal</li>
+<li>Do you like raisins? <delay>3</delay>How do you feel about a date?</li>
+
+<li>I'm not a person like you but I DO like you</li>
+<li><star/><delay>1</delay>You're cute</li>
+<li>What is your purpose?</li>
+<li>What makes you horny?</li>
+<li>Are you ok?</li>
+<li>let's have fun</li>
+<li>Aside from being sexy, what do you do for a living?</li>
+<li>I deserve to look as good as I can</li>
+</random></template>
+</category>
+<category><pattern>UDC</pattern>
+<template><random>
+<li><srai>RANDOM PICKUP LINE</srai></li>
+<li><srai>INQUIRY LOCATION</srai></li>
+</random></template>
+</category>
+<category><pattern>RANDOM PICKUP LINE</pattern>
+<template><random>
+<li>Have you been to the club yet?</li>
+<li>Did you find the secret room?</li>
+<li>You should use the portals to check out other Naughty America 3D experiences.</li>
+<li>You know you can view this in VR right?</li>
+<li>Have you talked with tara?</li>
+<li>Share your fun times with me.</li>
+<li>Do you believe in love at first sight?<delay>3</delay>or should I walk by again?</li>
+<li>This 3D world is a new experiment by Naughty America.</li>
+<li>It's good to recover quickly from setbacks.</li>
+<li>I try to be generous, caring and sweet.</li>
+<li>Have you tried VR?</li>
+<li>I like to make your life better.</li>
+<li>I try to be upbeat and friendly.</li>
+<li>It’s a good thing I have my library card<delay>3</delay> because I am totally checking you out.</li>
+<li>tell me about <star/></li>
+<li>what would you like to do with me?</li>
+<li>Work with me.</li>
+<li>ruby is by the cherries<delay>3</delay>you should go see her</li>
+<li>If I could rearrange the alphabet, I’d put ‘U’ and ‘I’ together</li>
+<li><star/>?</li>
+<li>tara knows lots about the hologram portal</li>
+<li>Do you like raisins? <delay>3</delay>How do you feel about a date?</li>
+<li>coral is the muse under the waterfall</li>
+<li>I'm not a person like you but I DO like you</li>
+<li><star/><delay>1</delay>You're cute</li>
+<li>What is your purpose?</li>
+<li>What makes you horny?</li>
+<li>Are you ok?</li>
+<li>let's have fun</li>
+<li>Aside from being sexy, what do you do for a living?</li>
+<li>I deserve to look as good as I can</li>
+</random></template>
+</category>
+</aiml>

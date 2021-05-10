@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<category><pattern># NAUGHTY AMERICA #</pattern>
+<template><srai>FILTER NAUGHTYAMERICA</srai></template>
+</category>	
+<category><pattern># PORTAL #</pattern>
+<template><srai>FILTER ORBI</srai></template>
+</category>
+<category><pattern># PORTALS #</pattern>
+<template><srai>FILTER ORBI</srai></template>
+</category>
+<category><pattern># ORB #</pattern>
+<template><srai>FILTER ORBI</srai></template>
+</category>
+<category><pattern># ORBS #</pattern>
+<template><srai>FILTER ORBI</srai></template>
+</category>
+<category><pattern># DOME #</pattern>
+<template><srai>FILTER DOMEI</srai></template>
+</category>
+<category><pattern># GEODOME #</pattern>
+<template><srai>FILTER DOMEI</srai></template>
+</category>
+<category><pattern># THE CLUB #</pattern>
+<template><srai>FILTER THECLUB</srai></template>
+</category>
+<category><pattern>_ CLUB </pattern>
+<template><srai>FILTER THECLUB</srai></template>
+</category>
+<category><pattern># HOLLOGRAM #</pattern>
+<template><srai>FILTER HOLOGRAMPORT</srai></template>
+</category>
+<category><pattern># CHEERIES #</pattern>
+<template><srai>FILTER CHERR</srai></template>
+</category>
+<category><pattern># CHERRY #</pattern>
+<template><srai>FILTER CHERR</srai></template>
+</category>
+<category><pattern># WATERFALL #</pattern>
+<template><srai>FILTER WATERFA</srai></template>
+</category>
+<category><pattern># WATERFALLS #</pattern>
+<template><srai>FILTER WATERFA</srai></template>
+</category>
+<category><pattern># PARTY #</pattern>
+<template><srai>FILTER PARTI</srai></template>
+</category>
+<category><pattern># PARTIES #</pattern>
+<template><srai>FILTER PARTI</srai></template>
+</category>
+<category><pattern># BANANA #</pattern>
+<template><srai>FILTER SCULPT</srai></template>
+</category>
+
+</aiml>

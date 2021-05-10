@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- these are character interactions change for each character -->
+	<category>
+	    <pattern># TARA #</pattern>
+	    <template><random><li>tara is pretty cute</li>
+	    <li>tara is near the hologram portal</li>
+	    <li>oh yeah the hologram portal is great</li>
+	    <li>TARA TARA TArA, why dont you talk to me?</li>
+	    <li>tara really likes that hologram experience<delay>2</delay>you should check it out</li>
+	    </random></template>
+    </category>
+    
+    <category>
+	    <pattern># RUBY #</pattern>
+	    <template><random><li>Ruby!<delay>2</delay> in the cherries that look like you know what</li>
+	    <li>ruby is fun to talk to</li>
+	    <li>Ruby is nice</li>
+	    </random></template>
+    </category>
+    <category>
+	    <pattern># CORAL #</pattern>
+	    <template><random><li>coral!<delay>2</delay> i know her</li>
+	    <li>coral is under the waterfall</li>
+	    <li>you should give coral a visit</li>
+	    </random></template>
+    </category>
+    <category>
+	    <pattern># NIKKI #</pattern>
+	    <template><random><li>nikk is in the geodome</li>
+	    <li>niki is very chill</li>
+	    <li>I hear she loves to party</li>
+	    </random></template>
+    </category>
+    <category>
+	    <pattern># ALEX #</pattern>
+	    <template><random><li>He's such a great dancer</li>
+	    <li>alex is in the club i think</li>
+	    <li>you should give alex a visit</li>
+	    </random></template>
+    </category>
+</aiml>

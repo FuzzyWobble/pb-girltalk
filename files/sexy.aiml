@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+	<!-- insert your AIML sexy categories here -->
+	<category>
+	    <pattern>FILTER BEEJ</pattern>
+	    <template>i would LUV that1! </template>
+    </category>
+    <category>
+	    <pattern>FILTER HAVESEX</pattern>
+	    <template>i think we can arrange that!!! </template>
+    </category>
+    <category>
+	    <pattern>FILTER SHOWME</pattern>
+	    <template>show me urs first</template>
+    </category>
+    <category>
+	    <pattern>FILTER DRUNK</pattern>
+	    <template>R U Drunk?</template>
+    </category>
+    <category>
+	    <pattern>FILTER WATCHPORN</pattern>
+	    <template><random><li>I luv porn</li>
+	    <li>check out the theatres for porn</li>
+	    <li>there is all sort of that to check out here</li>
+	    <li>at the creator portal you can make your own porn</li>
+	    <li>maybe we should make a porn?</li>
+	    </random></template>
+    </category>
+    
+    <category>
+	    <pattern>FILTER BDSMI</pattern>
+	    <template><random><li>I luv being spanked</li>
+	    <li>how hard to you like it?</li>
+	    <li>whats our safeword</li>
+	    </random></template>
+    </category>
+    <category>
+	    <pattern>FILTER MOUTHSTUFF</pattern>
+	    <template>my mouth is ready</template>
+    </category>
+    <category>
+	    <pattern>FILTER DICKSTUFF</pattern>
+	    <template><random><li>omg its soo big</li>
+	    <li>ooo i like it</li>
+	    <li>i love your dick</li>
+	    </random></template>
+    </category>
+    <category>
+	    <pattern>SUCK MY *</pattern>
+	    <template>bring your <star/> to me and i will</template>
+    </category>
+    <category>
+	    <pattern>_ CUM *</pattern>
+	    <template>ohh baby cum <person><star index="2"/></person> right now</template>
+    </category>
+    <category>
+	    <pattern>LICK *</pattern>
+	    <template>I luv that<delay>1</delay> <person><star/></person> is perfect</template>
+    </category>
+        <category>
+	    <pattern>LICK *</pattern>
+	    <template>I luv that<delay>1</delay> <person><star/></person> is perfect</template>
+    </category>
+    <category>
+	    <pattern>FUCK YOUR *</pattern>
+	    <template>I luv that<delay>1</delay> <person><star/></person> is perfect</template>
+    </category>
+    <category>
+	    <pattern># CYBER #</pattern>
+	    <template> tell me your fantasies</template>
+    </category>
+    <category><pattern>_ CUMMING *</pattern>
+        <template>Im going to</template>
+    </category>
+    <category><pattern>fuck</pattern>
+        <template>Im going to</template>
+    </category>
+    <category><pattern>_ IN MY *</pattern>
+        <template>ohh i would lov to <person/> in your <star index="2"/></template>
+    </category>
+    <category><pattern>_ UP YOUR *</pattern>
+        <template>Im going to <person/> up ur <star index="2"/></template>
+    </category>
+    <category><pattern>TAKE OFF *</pattern>
+	<template><random><li><person/>... gone </li>
+	    <li>you want <person/>?</li>
+	    <li>you can have <person/></li>
+	</random></template>
+	</category>
+	<category><pattern>_ DTF</pattern>
+	<template>always down to FUCK</template>
+	</category>
+	<category><pattern>_ POSITION</pattern>
+    <template>I like it animal style!!</template>
+    </category>
+    <category><pattern># GAY #</pattern>
+    <template>gay, straight, bi, i love all people</template>
+    </category>
+    <category><pattern>FILTER WHOOKER</pattern>
+    <template><random><li>u don't have to pay me to get dirty with you</li>
+    <li>i can be your slut</li>
+    </random></template>
+    </category>
+    <category><pattern>FILTER MASTURB</pattern>
+    <template><random><li>Maybe we can do it together</li>
+    <li>warm it up for me baby</li>
+    <li>get hard for me</li>
+    </random></template>
+    </category>
+    
+    <category><pattern>FILTER FUCKI</pattern>
+    <template><random><li>yeah lets fuck</li>
+    <li>i like it hard</li>
+    <li>bend me over bb</li>
+    </random></template>
+    </category>
+    
+    <category><pattern>FILTER LINGUS</pattern>
+    <template><random><li>my pussy is ready for ou</li>
+    <li>get in here hot stuff</li>
+    <li>just talking about it makes me wet</li>
+    </random></template>
+    </category>
+    
+    
+    
+    
+</aiml>

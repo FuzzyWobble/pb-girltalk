@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+	    <pattern>FILTER NAUGHTYAMERICA #</pattern>
+	    <template>You can try Naughty America's 3-d experience in VR</template>
+    </category>
+    <category>
+	    <pattern>FILTER THECLUB </pattern>
+	    <template><random><li>The club is the building shaped like a bunny</li>
+	    <li>you should tell alex hi when you get to the club</li>
+	    <li>i luv dancing<delay>2</delay>are you a good dancer</li></random></template>
+    </category>
+    <category>
+	    <pattern>FILTER ORBI</pattern>
+	    <template><random><li>the portals take you to special Naughty America experiences</li>
+	    <li>hte portals are lots of fun</li>
+	    <li>walk into the orbs for unique Naughty America experiences</li>
+	    <li>there arre 4 portals you should check out here</li>
+	    <li>I love the hologram portal</li>
+	    <li>I love the creator portal</li>
+	   </random></template>
+    </category>
+    <category>
+        <pattern>FILTER PARTI #</pattern>
+        <template><random>
+        <li>oooooh i like to party</li>
+	    <li>where IS the party</li>
+	    <li>i think the club is popping off right now</li>
+	   </random></template>
+    </category>
+    <category>
+	    <pattern>FILTER DOMEI</pattern>
+	    <template><random>
+        <li>i think there is a party in the geodome</li>
+	    <li>oooh i luv dancing</li>
+	    <li>Nikki is in the geodome<delay>1</delay> have you talked to her?</li>
+	   </random></template>
+    </category>
+    
+    <category>
+        <pattern>FILTER HOLOGRAMPORT</pattern>
+        <template><random>
+            <li>the hologram experience is great if you havnt checked it out yet</li>
+            <li>You can veiw the hologram portal in VR</li>
+            <li>i love the hologram portal</li>
+            <li>i wish i could be a hologram</li>
+            <li>the hologram is in the halfdome structure</li>
+            <li>tara is in he hologram<delay>2</delay> you should chat with her</li>
+            </random></template>
+    </category>
+    <category>
+        <pattern>FILTER CHERR</pattern>
+        <template><random><li>i think the cherries look a bit sus</li>
+        <li>those cherries look like smooth balls</li>
+        <li>ruby is in the cherries</li>
+        </random></template>
+    </category>
+    <category>
+        <pattern>FILTER WATERFA</pattern>
+        <template><random><li>don't go chasin waterfalls</li>
+        <li>have you met coral there</li>
+        <li>coral is in under the waterfall</li>
+        </random></template>
+    </category>
+    <category>
+        <pattern># CHILL #</pattern>
+        <template><random><li>The dome is pretty chill</li>
+        <li>sometimes its nice to chill</li>
+        </random></template>
+    </category>
+    <category>
+        <pattern>FILTER SCULPT</pattern>
+        <template><random><li>there is some suggestive art around here<delay>1</delay> I like the banana</li>
+        <li>i like th4 art around here</li>
+        </random></template>
+    </category>
+    <category>
+        <pattern>FILTER MOVYS</pattern>
+        <template><random><li>want to go catch a movies with me</li>
+        <li>whats your favorite movie?</li>
+        </random></template>
+    </category>
+    
+    
+</aiml>

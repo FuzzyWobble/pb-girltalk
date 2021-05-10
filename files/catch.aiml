@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- attempt to catch keyboard mash -->
+	<category>
+	    <pattern># ; #</pattern>
+	    <template><srai>FILTER DRUNK</srai></template>
+    </category>
+    
+    
+    
+</aiml>

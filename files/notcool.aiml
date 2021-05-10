@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<category><pattern># NIGGERS #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># NIGGER #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># NIG #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># NIGER #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># YELLOW MAN #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># YELLOWMAN #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># WIGGER #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># SLANT #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># SLANT EYE #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># SLANTEYE #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># SPIC #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># SPICK #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># POLACK #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># FAGGOT #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># FAG #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># GOOK #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+<category><pattern># KKK #</pattern>
+<template><srai>FILTER NOTCOOL</srai></template>
+</category>
+</aiml>

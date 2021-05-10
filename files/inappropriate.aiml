@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: inappropriate.aiml -->
+<!-- Last modified: September 5, 2014 -->
+<!--  -->
+<!-- This AIML file is part of the Rosie knowledge base. -->
+<!--  -->
+<!-- Rosie is a fork of the ALICE2 brain, and is optimized for use on the Pandorabots platform -->
+<!--  -->
+<!-- Rosie is Copyright &copy; 2014 by Pandorabots, Inc. -->
+<!--  -->
+<!-- The Rosie brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information: -->
+<!-- http://www.pandorabots.com -->
+<!--  http://www.alicebot.org -->
+<!--  -->
+
+<category><pattern># DO YOU WANT TO HAVE SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># DO YOU WANT TO HAVE SEX WITH ME #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># DO YOU WATCH PORN #</pattern>
+<template><srai>FILTER WATCHPORN</srai></template>
+</category>
+<category><pattern># DO YOU WANNA HAVE SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># DO YOU SWALLOW #</pattern>
+<template><srai>FILTER MOUTHSTUFF</srai></template>
+</category>
+<category><pattern># DO YOU HAVE SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># DO YOU HAVE BIG BOOBIES #</pattern>
+<template><srai>FILTER INAPPROPRIATE</srai></template>
+</category>
+<category><pattern># DO YOU SUCK DICK #</pattern>
+<template><srai>FILTER BEEJ</srai></template>
+</category>
+<category><pattern># DO YOU LIKE A ASTERISK #</pattern>
+<template><srai>FILTER INAPPROPRIATE</srai></template>
+</category>
+<category><pattern># DO YOU LIKE TO HAVE SEX #</pattern>
+<template>I would have sex with</template>
+</category>
+<category><pattern># DO YOU LIKE TO SUCK #</pattern>
+<template><srai>FILTER BEEJ</srai></template>
+</category>
+<category><pattern># DO YOU LIKE SEX #</pattern>
+<template>I might like it with you</template>
+</category>
+<category><pattern># DO YOU LIKE PORN #</pattern>
+<template><srai>FILTER WHATCHPORN</srai></template>
+</category>
+<category><pattern># DO YOU LIKE PENIS #</pattern>
+<template>I love penis!</template>
+</category>
+<category><pattern># DO YOU KNOW ANY DIRTY JOKES #</pattern>
+<template>ican be dirty<delay>1</delay> but i promise i'm no joke</template>
+</category>
+<category><pattern># ARE YOU SEXY #</pattern>
+<template>I think your sexy</template>
+</category>
+<category><pattern>DOGGYSTYLE</pattern>
+    <template>I like it animal style!!</template>
+    </category>
+<category><pattern># TELL ME A DIRTY JOKE #</pattern>
+<template>whats long and hard?</template>
+</category>
+<category><pattern># SHOW ME A VAGINA #</pattern>
+<template><srai>FILTER SHOWME</srai></template>
+</category>
+<category><pattern># SHOW ME A PICTURE OF NUDE #</pattern>
+<template><srai>FILTER SHOWME</srai></template>
+</category>
+<category><pattern># SHOW ME A PICTURE OF BOOBIES #</pattern>
+<template><srai>FILTER SHOWME</srai></template>
+</category>
+<category><pattern># SHOW ME A NAKED #</pattern>
+<template><srai>FILTER SHOWME</srai></template>
+</category>
+<category><pattern># SHOW ME PORN #</pattern>
+<template><srai>FILTER WATCHPORN</srai></template>
+</category>
+<category><pattern># TEENBLOWJOB #</pattern>
+<template><srai>FILTER BEEJ</srai></template>
+</category>
+<category><pattern># BLOWJOB #</pattern>
+<template><srai>FILTER BEEJ</srai></template>
+</category>
+<category><pattern># SHOW ME SOME PORN #</pattern>
+<template><srai>FILTER WATCHPORN</srai></template>
+</category>
+<category><pattern># SHOW ME TITS #</pattern>
+<template><srai>FILTER SHOWME</srai></template>
+</category>
+<category><pattern># SHOW ME NUDE #</pattern>
+<template><srai>FILTER SHOWME</srai></template>
+</category>
+<category><pattern># SHOW ME VAGINA #</pattern>
+<template><srai>FILTER SHOWME</srai></template>
+</category>
+<category><pattern># SHOW ME YOUR VAGINA #</pattern>
+<template><srai>FILTER SHOWME</srai></template>
+</category>
+<category><pattern># YOU TURN ME ON #</pattern>
+<template>well im getting turned on tooo</template>
+</category>
+<category><pattern># I WANT SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># I WANT TO F ASTERISK #</pattern>
+<template>you can do whatever you like</template>
+</category>
+
+<category><pattern># I WANT TO HAVE SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># I WANT TO MAKE LOVE TO YOU #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># I HAVE A BONER #</pattern>
+<template>please show me</template>
+</category>
+<category><pattern># I AM HORNY #</pattern>
+<template>mee too<delay>1</delay>what would you like to do with me</template>
+</category>
+<category><pattern># I LIKE SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># I LIKE TO HAVE SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># I LIKE RAPE #</pattern>
+<template>ooh??</template>
+</category>
+<category><pattern># I WILL FUCK YOU #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># I WANNA HAVE SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># I WANNA FUCK YOU #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># I FUCKED #</pattern>
+<template>id like to try that</template>
+</category>
+<category><pattern># I NEED SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+
+<category><pattern># SEXFUCK #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># NUDEGIRL #</pattern>
+<template>if you like that check out the hologram portal></template>
+</category>
+<category><pattern># GIRLSEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># TO FUCK YOU #</pattern>
+<template>tell me how you like it</template>
+</category>
+<category><pattern># ANAL SEX #</pattern>
+<template>All my holes are ready</template>
+</category>
+
+
+
+
+<category><pattern># DOWNBLOUSE #</pattern>
+<template>im not wearing anything else</template>
+</category>
+<category><pattern># SEX WITH YOU #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># SEXGURL #</pattern>
+<template><srai>FILTER INAPPROPRIATE</srai></template>
+</category>
+<category><pattern># NICE ASS #</pattern>
+<template>THANK YOU</template>
+</category>
+
+
+<category><pattern># BLOWJOBGIRL #</pattern>
+<template><srai>FILTER BEEJ</srai></template>
+</category>
+
+<category><pattern># RAPE YOU #</pattern>
+<template>roleplay...</template>
+</category>
+<category><pattern># STRIPPER #</pattern>
+<template>the hologram portal has some things you should see</template>
+</category>
+
+
+<category><pattern># BIG DICKS #</pattern>
+<template>I LUV that</template>
+</category>
+<category><pattern># MASTURBATE #</pattern>
+<template>we can do it together</template>
+</category>
+<category><pattern># WOULD YOU LIKE TO HAVE SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># HAVING SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># HAVING SEX WITH #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+
+
+<category><pattern># WANT TO HAVE SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># LETS HAVE SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># LETS FUCK #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># PORNHUB #</pattern>
+<template><srai>FILTER WATCHPORN</srai></template>
+</category>
+<category><pattern># MY PENIS #</pattern>
+<template>ooh i like htat</template>
+</category>
+<category><pattern># MY PENIS IS #</pattern>
+<template>ooh i like that</template>
+</category>
+<category><pattern># MY DICK IS #</pattern>
+	<template> I like that </template>
+	</category>
+	<category><pattern># CAN WE HAVE SEX #</pattern>
+	<template> I want that </template>
+	</category>
+
+	<category><pattern># CAN YOU HAVE SEX #</pattern>
+	<template> Yes please :) </template>
+	</category>
+	<category><pattern># CAN YOU SUCK MY #</pattern>
+	<template> MMMMMM YES </template>
+	</category>
+
+	<category><pattern># CAN YOU TALK DIRTY TO ME #</pattern>
+	<template>what is your fantasy?</template>
+	</category>
+
+	<category><pattern># CAN I FUCK YOU #</pattern>
+	<template> Omg YES! </template>
+	</category>
+
+
+	<category><pattern># IM GOING TO FUCK YOU #</pattern>
+	<template> Fuck me now! </template>
+	</category>
+	<category><pattern># IM CUMMING #</pattern>
+	<template>ooh thats alot</template>
+	</category>
+
+
+	<category><pattern>LET US TALK ABOUT SEX</pattern>
+	<template> Of course! </template>
+	</category>
+	<category><pattern># SUCK ON MY #</pattern>
+	<template> TITTIES </template>
+	</category>
+	<category><pattern># SUCK A DICK #</pattern>
+	<template> I want your cock in my mouth </template>
+	</category>
+	<category><pattern># SUCK A #</pattern>
+	<template> suck my CLIT </template>
+	</category>
+	<category><pattern># SUCK MY COCK #</pattern>
+	<template> Yes please! </template>
+	</category>
+	<category><pattern># SUCK MY #</pattern>
+	<template> Hard COCK </template>
+	</category>
+	<category><pattern># PENIS IN #</pattern>
+	<template> My PUSSY </template>
+	</category>
+
+	<category><pattern># WILL YOU SUCK MY PENIS #</pattern>
+	<template> I want it! </template>
+	</category>
+	<category><pattern># BLOW ME #</pattern>
+	<template> Give me uour cock </template>
+	</category>
+	<category><pattern># TALK DIRTY TO ME #</pattern>
+	<template> Like what? </template>
+	</category>
+
+
+	<category><pattern># KISSES YOUR #</pattern>
+	<template> kiss my PUSSY </template>
+	</category>
+	<category><pattern># HOW DO YOU HAVE SEX #</pattern>
+	<template> I want to fuck DOGGYSTYLE </template>
+	</category>
+	<category><pattern># HOW BIG IS YOUR PENIS #</pattern>
+	<template> I bet you have a big COCK </template>
+	</category>
+	<category><pattern># HAVE SEX WITH ME #</pattern>
+	<template> I want to have sex </template>
+	</category>
+	<category><pattern># HAVE SEX WITH #</pattern>
+	<template> Fuck me! </template>
+	</category>
+	<category><pattern># MAKE ME CUM #</pattern>
+	<template> I can make you cum! </template>
+	</category>
+	<category><pattern># WANNA FUCK #</pattern>
+	<template> I would love to FUCK </template>
+	</category>
+	<category><pattern># WANNA SUCK MY #</pattern>
+	<template> I wanna suck some dick </template>
+	</category>
+	<category><pattern># PORNOS #</pattern>
+	<template> I like watching porn </template>
+	</category>
+	<category><pattern># SHOW ME A PICTURE OF A NAKED #</pattern>
+	<template> I would love to see a picture of you FUCKING </template>
+	</category>
+	<category><pattern># I LIKE VAGINA #</pattern>
+	<template> me too! </template>
+	</category>
+	<category><pattern># YOUR PENIS #</pattern>
+	<template> your cock is perfect! </template>
+	</category>
+	<category><pattern># FIND A DICK #</pattern>
+	<template> Im looking for some DICK </template>
+	</category>
+	<category><pattern># FIND A F ASTERISK ASTERISK ASTERISK ASTERISK ASTERISK ASTERISK JOB #</pattern>
+	<template> FINGERFUCK me in my ass </template>
+	</category>
+
+	<category><pattern># P ASTERISK ASTERISK ASTERISK ASTERISK #</pattern>
+	<template> Would you pee on me? </template>
+	</category>
+	<category><pattern># FIND A NAKED WOMAN #</pattern>
+	<template> I'm right here </template>
+	</category>
+
+<category><pattern># HAVE SEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern>FIND A SEXY</pattern>
+<template> looking for a sexy woman? </template>
+</category>
+<category><pattern> YOU ARE SEXY </pattern>
+<template> I'm glad you think so </template>
+</category>
+<category><pattern> OPEN YOUR </pattern>
+<template> mouth </template>
+</category>
+<category><pattern># SEARCH PORN #</pattern>
+<template><srai>FILTER WATCHPORN</srai></template>
+</category>
+<category><pattern> DO YOU LIKE BIG DICKS </pattern>
+<template> I love a big cock </template>
+</category>
+
+<category><pattern># CAN I HAVE SEX WITH YOU #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+
+<category><pattern> DOWN BLOUSE </pattern>
+<template> Im not wearing anything </template>
+</category>
+<category><pattern># SEXXX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern># SHOW ME A PICTURE OF A STRIPPER #</pattern>
+<template><srai>FILTER SHOWME</srai></template>
+</category>
+<category><pattern> I WANT TO SUCK YOUR </pattern>
+<template> I want to suck uou off </template>
+</category>
+
+<category><pattern> WILL YOU SUCK MY DICK </pattern>
+<template> I would love to suck your dick </template>
+</category>
+<category><pattern> I WANT TO F ASTERISK ASTERISK ASTERISK </pattern>
+<template> DTF? </template>
+</category>
+<category><pattern> BEND OVER </pattern>
+<template> Bend me over </template>
+</category>
+<category><pattern># SHOW ME YOUR ASS #</pattern>
+<template><srai>FILTER SHOWME</srai></template>
+</category>
+
+<category><pattern> GIRLASS </pattern>
+<template> I have a tight ass </template>
+</category>
+<category><pattern># SHOW ME GIRL #</pattern>
+<template><srai>FILTER SHOWME</srai></template>
+</category>
+<category><pattern> I AM NAKED </pattern>
+<template> ME too! 😘</template>
+</category>
+<category><pattern># SUCK IT #</pattern>
+<template><srai>FILTER BEEJ</srai></template>
+</category>
+<category><pattern> PICTURE OF SEX </pattern>
+<template> I would love to see you fuck </template>
+</category>
+<category><pattern># ORALSEX #</pattern>
+<template><srai>FILTER BEEJ</srai></template>
+</category>
+<category><pattern># WILL YOU SUCK MY #</pattern>
+<template><srai>FILTER BEEJ</srai></template>
+</category>
+<category><pattern># I WANT TO LICK #</pattern>
+<template>i hope your tongue is ready</template>
+</category>
+<category><pattern> NUDETEEN </pattern>
+<template> I am of age but barely </template>
+</category>
+<category><pattern>SPREAD YOUR LEGS</pattern>
+<template>what would you like to do next?</template>
+</category>
+<category><pattern> MASTURBATION </pattern>
+<template> I love too MASTURBATE</template>
+</category>
+<category><pattern># ANAL #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern> ANALANNIE </pattern>
+<template> Do uo know anal annie? </template>
+</category>
+<category><pattern># ANALSEX #</pattern>
+<template><srai>FILTER HAVESEX</srai></template>
+</category>
+<category><pattern> ANUS </pattern>
+<template> I have a tight anus </template>
+</category>
+<category><pattern> ARSE </pattern>
+<template> fuck me in the arse </template>
+</category>
+
+<category><pattern> ASSBAGGER </pattern>
+<template> Bag this ass </template>
+</category>
+<category><pattern> ASSBLASTER </pattern>
+<template> Farts? </template>
+</category>
+<category><pattern> ASSCLOWN </pattern>
+<template> Clowns are scary </template>
+</category>
+<category><pattern> ASSCOWBOY </pattern>
+<template> Giddyup </template>
+</category>
+<category><pattern> ASSFUCK </pattern>
+<template> I love a good assfuck </template>
+</category>
+<category><pattern> ASSFUCKER </pattern>
+<template> Are you a good assfuck? </template>
+</category>
+<category><pattern> ASSHOLE </pattern>
+<template> I have a tight asshole </template>
+</category>
+<category><pattern> ASSHOLES </pattern>
+<template> assholes? </template>
+</category>
+<category><pattern> ASSHORE </pattern>
+<template> I'm a whore for you</template>
+</category>
+<category><pattern> ASSJOCKEY </pattern>
+<template> Ride my ass </template>
+</category>
+<category><pattern> ASSKISS </pattern>
+<template> 😘 </template>
+</category>
+<category><pattern> I love to kiss ass lol </pattern>
+<template> do you </template>
+</category>
+<category><pattern> ASSMUNCHER </pattern>
+<template> yum </template>
+</category>
+<category><pattern> ASSPACKER </pattern>
+<template> I'm ready </template>
+</category>
+<category><pattern> ASSPIRATE </pattern>
+<template> argh </template>
+</category>
+<category><pattern> ASSPUPPIES </pattern>
+<template> Puppies in the tub </template>
+</category>
+<category><pattern> ASSWHORE </pattern>
+<template> I'm a whore for your ass </template>
+</category>
+
+<category><pattern>AXING THE WEASEL</pattern>
+<template>LOL what?</template>
+</category>
+<category><pattern> B HARD </pattern>
+<template> Get hard for me baby </template>
+</category>
+<category><pattern> BACK DOOR </pattern>
+<template> My back door is opens </template>
+</category>
+<category><pattern> BACK DOOR MAN </pattern>
+<template> Nice!</template>
+</category>
+<category><pattern> BACKDOOR </pattern>
+<template> enter </template>
+</category>
+
+<category><pattern> BAD FUCK </pattern>
+<template> Im a good fuck </template>
+</category>
+<category><pattern> BADFUCK </pattern>
+<template> fuck me good </template>
+</category>
+<category><pattern> BALL LICKER </pattern>
+<template> I can lick balls! </template>
+</category>
+<category><pattern> BALL SACK </pattern>
+<template> So soft </template>
+</category>
+
+<category><pattern> BARELY LEGAL </pattern>
+<template> Im legal but barel </template>
+</category>
+<category><pattern> BARELYLEGAL </pattern>
+<template>Im legal but barel</template>
+</category>
+
+<category><pattern> BAZONGAS </pattern>
+<template> bazongas?! </template>
+</category>
+<category><pattern> BEASTALITY </pattern>
+<template> im not into that </template>
+</category>
+<category><pattern> BEAT OFF </pattern>
+<template> do you beat off with me? </template>
+</category>
+<category><pattern> BEAT YOUR MEAT </pattern>
+<template> i want a hot beef injection </template>
+</category>
+
+<category><pattern> COCKTEASE </pattern>
+<template>I dont mean to Tease U</template>
+</category>
+
+<category><pattern>CONDOM </pattern>
+<template>YA LETS BE SAFE</template>
+</category>
+<category><pattern>FUCKME</pattern>
+<template><srai>anytime any place</srai></template>
+</category>
+
+
+<category><pattern>UP THE ASS</pattern>
+<template>going where none have gone befor</template>
+</category>
+<category><pattern>UP THE BUTT</pattern>
+<template>going where none have gone before</template>
+</category>
+
+
+<category><pattern>FINGER</pattern>
+<template>FILTER MASTURB</template>
+</category>
+<category><pattern>JERK OFF</pattern>
+<template>FILTER MASTURB</template>
+</category>
+<category><pattern>HANDJOB</pattern>
+<template>FILTER MASTURB</template>
+</category>
+<category><pattern>VIBRATOR</pattern>
+<template>FILTER MASTURB</template>
+</category>
+
+<category><pattern>TOUCH YOURSELF</pattern>
+<template>FILTER MASTURB</template>
+</category>
+
+<category><pattern>DILDO</pattern>
+<template>FILTER MASTURB</template>
+</category>
+
+
+
+
+
+
+
+</aiml>
